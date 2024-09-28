@@ -17,6 +17,8 @@ Explaining the working of project
 
 ## Technologies used
 List out tech stacks you have used
+streamlit library
+gemini api
 
 ## Other Links
 Provide any other links ( for eg. Wireframe , UI, Abstract, Presentation )

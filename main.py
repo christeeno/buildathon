@@ -223,19 +223,3 @@ with col2:
         else:
 
             st.session_state['chat_history'].append(("Bot", "Unexpected response format."))
-
-
-
-        # else:
-        #
-        #     st.write(f"{user_input} is not  a medical-related question.")
-        #
-        #     st.session_state['chat_history'].append(("Bot", "Please ask a medical-related question."))
-
-
-
-    # Display the chat history in the form of expandable sections
-
-
-
-
