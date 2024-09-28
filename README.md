@@ -16,7 +16,7 @@ This chatbot is a medical Q&A system built using Streamlit and Google Generative
 Explaining the working of project  
 
 ## Technologies used
-List out tech stacks you have used
+
 streamlit library
 gemini api
 
